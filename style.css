@@ -49,12 +49,12 @@ input:focus {
 }
 
 .search.active .input {
-  width: 200px;
+  width: 220px;
 }
 
 .search.active .btn {
   /* moves the button to the right */
-  transform: translateX(198px);
+  transform: translateX(218px);
   background-color: #fbf5f3;
 }
 
