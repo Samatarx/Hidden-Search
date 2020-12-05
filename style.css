@@ -84,3 +84,9 @@ footer a:hover {
 footer a:visited {
   color: #e28413;
 }
+
+@media (max-width:430px){
+  .btn i {
+  transform:translateX(-3px) ;
+  }
+}
