@@ -86,7 +86,8 @@ footer a:visited {
 }
 
 @media (max-width:430px){
-  .btn i {
-  transform:translateX(-3px) ;
+  .btn{
+    display: grid;
+    place-items: center;
   }
 }
