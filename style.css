@@ -58,11 +58,12 @@ input:focus {
 
 .search.active .input {
   width: 200px;
+  border-radius: 0;
 }
 
 .search.active .btn {
   /* moves the button to the right */
-  transform: translateX(198px);
+  transform: translateX(190px);
   background-color: #fbf5f3;
 }
 
